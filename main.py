@@ -1,2 +1,2 @@
 print("Hello main")
-print("hello feat-b")
+print("hello from feat b")
