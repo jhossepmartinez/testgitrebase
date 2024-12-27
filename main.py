@@ -1,2 +1,1 @@
-print("Hello world")
-print("feat a")
+print("Hello main")
